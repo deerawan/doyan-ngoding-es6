@@ -1,3 +1,8 @@
-# My Awesome Book
+# Doyan Ngoding ES6
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Yo! Edisi doyan ngoding kali ini kita akan membahas mengenai ES6 \(EcmaScript 6\). Apa itu ES6? Simple-nya adalah javascript versi ke-6. ES6 dikenal juga dengan nama ES2015 karena selesai dirampungkan pada tahun 2015. 
+
+
+
+
+
